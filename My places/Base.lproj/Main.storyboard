@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Main View Controller-->
+        <!--My Places-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="MainViewController" customModule="My_places" customModuleProvider="target" sceneMemberID="viewController">
@@ -44,7 +44,7 @@
                             <constraint firstItem="gG5-Aa-Mpy" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="l8n-S1-LKL"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Main View Controller" id="FpW-Qw-q8v"/>
+                    <navigationItem key="navigationItem" title="My Places" id="FpW-Qw-q8v"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
